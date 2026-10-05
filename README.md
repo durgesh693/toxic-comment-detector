@@ -70,7 +70,7 @@ After downloading:
 ## ▶️ Run Locally
 
 ```bash
-uvicorn app.main:app --reload
+ python -m uvicorn app.main:app --reload
 ```
 
 ---
